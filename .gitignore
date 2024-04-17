@@ -1,0 +1,10 @@
+.DS_Store
+Data/Raw/.DS_Store
+Data/Raw/.ipynb_checkpoints/
+f_venv/
+.ipynb_checkpoints/
+Notebook/.ipynb_checkpoints/
+Notebook/.DS_Store
+requirements*.in
+requirements*.in
+.virtual_documents/
